@@ -7,7 +7,7 @@
 
 - An inventory management app that revolutionizes the way you work and manage your shop.
 - It has all the features to run your store: product management, sales, reports, employee management, and even the flexibility to order products from suppliers.
-- Learn more: [arventory.com](https://arventory.com)
+- Learn more: [arventory.com](https://aryventory.com)
 
 ## 🎓 GoSchoolify 
 
